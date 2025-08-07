@@ -14,10 +14,10 @@ you need a discord token for you bot, slap it into your ENV file, label it DISCO
 # File structure looks like this
 Echosend
  - data
-   - cards
+   - cards  <json files go here
    - memory
    - users
- - prompts
+ - prompts  <prompts go here
  - utils
    + __init__.py
    + card_loader.py
