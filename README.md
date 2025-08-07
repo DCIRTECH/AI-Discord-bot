@@ -19,12 +19,12 @@ Echosend
    - users
  - prompts
  - utils
-  - __init__.py
-  - card_loader.py
-  - config.py
-  - llm_bridge.py
-  - memory.py
-  - sanitize.py
-  - user_loader.py
+  + __init__.py
+  + card_loader.py
+  + config.py
+  + llm_bridge.py
+  + memory.py
+  + sanitize.py
+  + user_loader.py
 
 #IF YOU HAVE ANY QUESTIONS OR THINK IF THERE IS A WAY I CAN MAKE THIS AN EASIER SET UP, DROP ME A LINE.
